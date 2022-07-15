@@ -11,7 +11,7 @@ setup(
     install_requires=[],
 
     scripts=[
-        'pre_commit_hooks/xml_format',
+        'pre_commit_hooks/xml-format',
     ],
 
     # explicitly declare packages so setuptools does not attempt auto discovery

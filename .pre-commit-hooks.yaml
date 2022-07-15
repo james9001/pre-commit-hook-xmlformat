@@ -1,5 +1,5 @@
--   id: xml_format
+-   id: xml-format
     name: xmlformatter wrapper
-    entry: xml_format
+    entry: xml-format
     language: python
     pass_filenames: false
